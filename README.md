@@ -84,10 +84,7 @@ outColumns:
 
 ## Author Details
 
-|Name   | Email  |
-|---|---|---|---|---|
-|Animesh Srivastava  |postanisrivastava@outlook.com  
-|   |   |   |   |   |
+Animesh Srivastava  |postanisrivastava@outlook.com  
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/animesh-srivastava-12390a107/)
 &nbsp;
