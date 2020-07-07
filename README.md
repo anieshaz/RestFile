@@ -30,7 +30,7 @@ outColumns:
   1|John|20
   2|Paul|30
   3|George|70
-  3|Ringo|60
+  4|Ringo|60
   ```
 
 - Run the application
