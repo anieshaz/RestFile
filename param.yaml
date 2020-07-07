@@ -1,0 +1,19 @@
+# Port Number
+port : 5000
+# Input file path
+filename : 'sample.dat'
+# Delimiter
+delimiter : '|'
+# Filtering key column (GET)
+keyColumn : 'ID_BB_UNIQUE'
+# Output Columns
+outColumns:
+  - ID_BB_UNIQUE
+  - LAST_UPDATE_DT
+  - PX_BID
+  - PX_MID
+  - PX_ASK
+  - PX_OPEN
+  - PX_HIGH
+  - PX_LOW
+  - PX_LAST
