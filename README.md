@@ -42,7 +42,7 @@ outColumns:
 - Subscribe the data
 
     ```curl
-    curl -X GET http://INW1PF1AQDMR:99/api/get/1
+    curl -X GET http://INW1PF1AQDMR:5000/api/get/1
 
     {
         "ID": 1,
@@ -62,7 +62,7 @@ outColumns:
 2020-07-07 12:29:20,219 :: INFO :: Parameter file paramTest.yaml read successfully
 2020-07-07 12:29:20,219 :: INFO :: Fetching Parameters from paramTest.yaml
 2020-07-07 12:29:20,222 :: INFO :: Syntax check for test.dat passed sucessfully
-2020-07-07 12:29:20,316 :: INFO ::  * Running on http://HOSTANIEPC:8000/ (Press CTRL+C to quit)
+2020-07-07 12:29:20,316 :: INFO ::  * Running on http://HOSTANIEPC:5000/ (Press CTRL+C to quit)
 ```
 
 ---
