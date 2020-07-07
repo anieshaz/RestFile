@@ -33,7 +33,6 @@ outColumns:
   3|Ringo|60
   ```
 
-
 - Run the application
 
   ```python
@@ -58,6 +57,7 @@ outColumns:
 
 - Check the logs in case of any errors
 - Log is created in the working directory with the name of **"run-app.log"**
+
 ```log
 2020-07-07 12:29:20,219 :: INFO :: Parameter file paramTest.yaml read successfully
 2020-07-07 12:29:20,219 :: INFO :: Fetching Parameters from paramTest.yaml
@@ -75,9 +75,19 @@ outColumns:
 
 ---
 
+## File validations and sanity checks
+
+- A mechanism has been added to check the columns used in parameters are actually being used in the file or not.
+- Program will also check for the required paramter fields such as [ 'outColumns', 'filename', 'keyColumn', 'delimiter' ]
+
+---
+
 ## Author Details
 
-Animesh Srivastava  | postanisrivastava@outlook.com  
+|Name   | Email  |
+|---|---|---|---|---|
+|Animesh Srivastava  |postanisrivastava@outlook.com  
+|   |   |   |   |   |
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/animesh-srivastava-12390a107/)
 &nbsp;
